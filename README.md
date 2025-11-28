@@ -31,9 +31,7 @@
 
 ---
 
-## 📌 Featured Projects
 
-- 🌸 [**Blossom Stays**](https://github.com/Apoorvaaaaaaaa/AIRBNB-CLONE) – Airbnb-inspired responsive stay booking site with HTML, CSS, and JavaScript.
 
 
 ---
